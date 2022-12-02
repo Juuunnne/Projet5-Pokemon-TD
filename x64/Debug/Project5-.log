@@ -1,0 +1,18 @@
+﻿  App.cpp
+  Enemy.cpp
+C:\Users\Jun\Downloads\Project5-\Project5-\Enemy.cpp(15,50): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Jun\Downloads\Project5-\Project5-\Enemy.cpp(15,37): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Jun\Downloads\Project5-\Project5-\Enemy.cpp(70,36): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Jun\Downloads\Project5-\Project5-\Enemy.cpp(70,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Jun\Downloads\Project5-\Project5-\Enemy.cpp(76,42): warning C4244: “=”: 从“const T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\Jun\Downloads\Project5-\Project5-\Enemy.cpp(77,42): warning C4244: “=”: 从“const T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+  正在生成代码...
+  Project5-.vcxproj -> C:\Users\Jun\Downloads\Project5-\Project5-\x64\Debug\Project5-2 SFML.exe

@@ -1,0 +1,32 @@
+{
+   "pokemon": [
+      {
+         "name": "Groudon",
+         "pv":2500,
+         "vitesse":1,
+         "color":"red",
+         "type":"fire",
+         "apparition":"droite",
+         "path":"enemy/Groudon.png"
+
+      },
+      {
+         "name": "Rinokink",
+         "pv":1000,
+         "vitesse":1,
+         "color":"blue",
+         "type":"normal",
+         "apparition":"gauche",
+         "path":"enemy/Rinoking.png"
+      },
+      {
+         "name": "Melofee",
+         "pv":500,
+         "vitesse":2,
+         "color":"pink",
+         "type":"fairy",
+         "apparition":"gauche",
+         "path":"Melofee"
+      }
+   ]
+}
